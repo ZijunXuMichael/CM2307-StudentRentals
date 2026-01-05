@@ -1,2 +1,2 @@
-# CM2307-StudentRentals
-CM2307 code
+Java version: 17+
+How to run:
